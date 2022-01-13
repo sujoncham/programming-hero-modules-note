@@ -19,8 +19,10 @@
 
 .miles h3{
     color: #be09be;
+    margin-bottom: 0px;
 }
 
 .miles p{
     color: #363636;
+    margin-top: 0px;
 }
