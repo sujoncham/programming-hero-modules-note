@@ -1,0 +1,26 @@
+.notes{
+    width: 992px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.miles{
+    width: 30%;
+    border: 1px solid #800080;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+
+.miles h1{
+    color: #970897;
+}
+
+.miles h3{
+    color: #be09be;
+}
+
+.miles p{
+    color: #363636;
+}
