@@ -15,14 +15,17 @@
 
 .miles h1{
     color: #970897;
+    margin-top: 8px;
 }
 
 .miles h3{
     color: #be09be;
     margin-bottom: 0px;
+    margin-top: 8px;
 }
 
 .miles p{
     color: #363636;
     margin-top: 0px;
+    margin-bottom: 5px;
 }
